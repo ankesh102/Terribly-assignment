@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Terribly-assignment/static/css/main.399ab48a.css",
+    "main.js": "/Terribly-assignment/static/js/main.dbac59d3.js",
+    "static/js/787.04a07c5f.chunk.js": "/Terribly-assignment/static/js/787.04a07c5f.chunk.js",
+    "index.html": "/Terribly-assignment/index.html",
+    "main.399ab48a.css.map": "/Terribly-assignment/static/css/main.399ab48a.css.map",
+    "main.dbac59d3.js.map": "/Terribly-assignment/static/js/main.dbac59d3.js.map",
+    "787.04a07c5f.chunk.js.map": "/Terribly-assignment/static/js/787.04a07c5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399ab48a.css",
+    "static/js/main.dbac59d3.js"
+  ]
+}
