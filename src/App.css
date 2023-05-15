@@ -1,0 +1,61 @@
+/* 
+CSS File of APP.JS File 
+*/
+
+body {
+  background:linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.head-content {
+  
+  font: italic 1.2em "Fira Sans", serif;
+  font-size: 50px;
+}
+
+.head {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font: italic 1.2em "Fira Sans", serif;
+  font-size: 50px;
+
+  flex-direction: column;
+}
+
+button {
+  position: relative ; 
+  border : none ;
+  transition: .4s ease-in ;
+  z-index: 1;
+  cursor: pointer;
+}
+
+button::before,
+button::after {
+  position: absolute;
+  content: "";
+  z-index: -1 ;
+}
+
+#btn-submit {
+
+  font: italic 1.2em "Fira Sans", serif;
+  margin: 25px;
+  padding: 11px 25px;
+  margin-left: 98px;
+
+}
+
+.export {
+  margin-left: 10%;
+}
+
+#btn-submit:hover, button:hover {
+  background: #ff96ad;
+  box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad;
+}
+
+.content {
+  height: 60%;
+  width: 40%;
+}
